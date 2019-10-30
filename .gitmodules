@@ -1,0 +1,15 @@
+[submodule "orca"]
+	path = tools/orca
+	url = https://github.com/digitalshadows/orca
+[submodule "theHarvester"]
+	path = tools/theHarvester
+	url = https://github.com/laramies/theHarvester
+[submodule "twint"]
+	path = tools/twint
+	url = https://github.com/twintproject/twint
+[submodule "recon-ng"]
+	path = tools/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "truffleHog"]
+	path = tools/truffleHog
+	url = https://github.com/dxa4481/truffleHog
