@@ -21,3 +21,7 @@ If you don't want to install the tools, we've got a prebuilt VM available, hoste
 The username:password is `investigator:research`. 
 
 https://drive.google.com/file/d/126J7EWdykUtowvg3XOAp7qi7lhnlRiLL/view?usp=sharing
+
+##Workshop Video
+
+https://drive.google.com/file/d/1-R6VXBQBOvGmHNmZKbRcH_LQmU2oV1Of/view?usp=sharing
