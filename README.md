@@ -19,3 +19,5 @@ Follow these steps if you're not using the provided Virtual Machine image:
 If you don't want to install the tools, we've got a prebuilt VM available, hosted on Google Drive. It's an .ova for VirtualBox. You can import it into VMWare, disable the CD-ROM hardware setting, and run  `sudo apt install open-vm-tools open-vm-tools-desktop` then reboot and you're ready to go. 
 
 The username:password is `investigator:research`. 
+
+https://drive.google.com/file/d/126J7EWdykUtowvg3XOAp7qi7lhnlRiLL/view?usp=sharing
